@@ -1,7 +1,7 @@
 # glados-checkin
   每天自动签到（天数+1），自动推送结果  
 
-# clash 使用教程：  
+# clash 使用教程，查看作者原地址：  
   http://www.xmstudent.ml/post-24.html
 
 
